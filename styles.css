@@ -58,3 +58,33 @@ button {
     border-radius: 8px;
     background: #3882F6;
 }
+
+.container2 {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.title {
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 900;
+    text-align: center;
+    padding: 54px;
+}
+
+.info {
+    max-width: 260px;
+    text-align: center;
+    margin-bottom: 54px;
+}
+
+img {
+    width: 230px;
+    height: 175px;
+}
+
+.text2 {
+    color: #1F2937;
+}
+
