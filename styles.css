@@ -88,3 +88,29 @@ img {
     color: #1F2937;
 }
 
+.section-Three {
+    background-color: #E5E7EB; 
+    padding: 60px;
+    
+
+}
+.quote {
+    text-align: center;
+    font-size: 36px;
+    color: #1F2937;
+    font-style: italic;
+    padding-bottom: 15px; /* top right bottom left */
+}
+
+.author {
+    font-size: 20px;
+    color: #1F2937;
+    font-weight: bold;
+    text-align:right;
+   
+}
+
+
+
+
+
